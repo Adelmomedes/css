@@ -1,0 +1,135 @@
+#dt_contenedor {
+    background: url(https://i.imgur.com/VKwat11.jpg);
+}
+
+article{
+border-left: 1px solid #333333;
+border-bottom: 2.5px solid #333333;
+border-right: 1px solid #333333;
+}
+
+.featu.title{
+margin-top: 6px;
+margin-left: -5px;
+box-shadow: 1px 1px 1px solid black;
+border-radius: 5px;
+background-color: #f72222;
+}
+
+.quality{
+border-radius: 2px;
+}
+
+.img-site{
+width: 100%;
+margin-bottom: -5px;
+}
+
+h2.widget-title{
+text-align: center;
+border-radius: 2px;
+padding:12px; 
+background-color: #8B0000;
+}
+
+.head-main-nav{
+font-size: 30px;
+}
+
+.player-info{
+margin-top: 5px;
+margin-bottom: 5px;
+background-color:#262626;
+font-style: italic;
+}
+
+.nav_items_module{
+display:none;
+}
+
+.owl-wrapper{
+background-color: #262626;
+border-radius: 2px;
+}
+
+.content.full_width_layout{
+background-color: black;
+}
+
+header.main {
+background: rgba(0, 0, 0, .9);
+    box-shadow:0px 1px 5px rgba(0, 0, 0, 0.4);
+	background: url(http://megacinefilmes.com/wp-content/themes/megacinefilmes/maxfo/assets/images/bg-repeat2.jpg);
+    border-bottom:none;
+}
+
+
+.head-main-nav ul.main-header li a {
+    color: #ffffff;
+}
+
+header{
+background: rgba(0, 0, 0, 1);
+	background: url(http://megacinefilmes.com/wp-content/themes/megacinefilmes/maxfo/assets/images/bg-repeat2.jpg);
+border-radius: 2.3px;
+border-bottom: 4px solid #bc2727;
+}
+
+header h2{
+color: red
+}
+
+.box_links{
+display: none;
+}
+
+
+.see{
+    box-shadow:0px 1px 5px rgba(0, 0, 0, 0.4);
+}
+
+.item_type{
+border-radius: 3px;
+background: #333
+}
+
+.home-blog-post{
+color: white;
+background-color: #bc2727;
+}
+
+
+.sbox h1, .sbox h2 {
+text-align: center;
+color:#fff;
+background: #8B0000;
+border-radius: 5px;
+font-size: 20px;
+}
+
+.title .h2{
+text-align: center;
+}
+
+.featu{
+border-radius: 0.5px;
+}
+
+/ Episodes Title /
+.module .content .items .episodes .poster span.serie {
+    background: rgba(221, 0, 0, 1.79); / Background color /
+    color: #fff; / Text color /
+}
+    /* Style and size */
+    .module .content .items .episodes .poster span.serie {
+        position: absolute;
+        bottom: 5;
+        left: 35px;
+        right: 35px; 
+        text-align: center;
+        padding: 4px 10px;
+        font-size: 13px;
+        border-radius: 15px 15px 0px 0px; 
+    }
+
+
